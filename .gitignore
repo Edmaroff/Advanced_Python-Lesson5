@@ -1,0 +1,6 @@
+.idea
+venv/
+__pycache__
+test.py
+post.html
+all.html
